@@ -1,0 +1,2 @@
+// Put your current day input in this file
+// You can access your current day input at https://adventofcode.com/{{year}}/day/{{day}}/input

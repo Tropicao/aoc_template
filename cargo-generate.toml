@@ -1,0 +1,9 @@
+[placeholders.year]
+type = "string"
+prompt = "What challenge year do you want to work on ?"
+default = "2022"
+
+[placeholders.day]
+type = "string"
+prompt = "What challenge day do you want to work on ?"
+default = "1"
