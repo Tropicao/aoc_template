@@ -20,14 +20,6 @@
 		},
 		{
 			"type": "cargo",
-			"command": "clippy",
-			"problemMatcher": [
-				"$rustc"
-			],
-			"label": "Lint"
-		},
-		{
-			"type": "cargo",
 			"command": "run",
 			"problemMatcher": [
 				"$rustc"
