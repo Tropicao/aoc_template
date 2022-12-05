@@ -1,9 +1,9 @@
 pub fn part_1(input: &str) -> usize {
-    0
+    todo!("Implement part 1 (input : {input})");
 }
 
 pub fn part_2(input: &str) -> usize {
-    0
+    todo!("Implement part 2 (input : {input})");
 }
 
 #[cfg(test)]
