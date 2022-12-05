@@ -16,7 +16,7 @@ cargo install cargo-generate
 ```
 cargo generate --git Tropicao/aoc_template -d year=2022 -d day=1 -n <challenge_name> <directory_name>
 ```
-* Open `input.txt` and replace comments with your personnalized input
+* Open `src/input.txt` and replace comments with your personnalized input
 * The template offers a Visual Studio Code configuration which allows you to :
   * run the tests
   * format the code
