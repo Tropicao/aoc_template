@@ -14,7 +14,7 @@ cargo install cargo-generate
 
 * Generate a new project for the current day challenge :
 ```
-cargo generate --git Tropicao/aoc_template -d year=2022 -d day=1 -n <challenge_name> <directory_name>
+cargo generate --git Tropicao/aoc_template -d year=2022 -d day=1 -n <challenge_name> --vcs none <directory_name>
 ```
 * Open `src/input.txt` and replace comments with your personnalized input
 * The template offers a Visual Studio Code configuration which allows you to :
