@@ -1,3 +1,9 @@
+[template]
+ignore = [
+    ".gitignore",
+    "LICENSE",
+    "README.md",
+]
 [placeholders.year]
 type = "string"
 prompt = "What challenge year do you want to work on ?"
